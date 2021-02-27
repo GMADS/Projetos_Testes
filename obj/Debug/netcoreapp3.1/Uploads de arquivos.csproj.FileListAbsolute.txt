@@ -1,0 +1,13 @@
+C:\Users\guilh\OneDrive\Documentos\Projestos de teste\Uploads de arquivos\bin\Debug\netcoreapp3.1\Uploads de arquivos.exe
+C:\Users\guilh\OneDrive\Documentos\Projestos de teste\Uploads de arquivos\bin\Debug\netcoreapp3.1\Uploads de arquivos.deps.json
+C:\Users\guilh\OneDrive\Documentos\Projestos de teste\Uploads de arquivos\bin\Debug\netcoreapp3.1\Uploads de arquivos.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Projestos de teste\Uploads de arquivos\bin\Debug\netcoreapp3.1\Uploads de arquivos.runtimeconfig.dev.json
+C:\Users\guilh\OneDrive\Documentos\Projestos de teste\Uploads de arquivos\bin\Debug\netcoreapp3.1\Uploads de arquivos.dll
+C:\Users\guilh\OneDrive\Documentos\Projestos de teste\Uploads de arquivos\bin\Debug\netcoreapp3.1\Uploads de arquivos.pdb
+C:\Users\guilh\OneDrive\Documentos\Projestos de teste\Uploads de arquivos\obj\Debug\netcoreapp3.1\Uploads de arquivos.csprojAssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\Projestos de teste\Uploads de arquivos\obj\Debug\netcoreapp3.1\Uploads de arquivos.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Projestos de teste\Uploads de arquivos\obj\Debug\netcoreapp3.1\Uploads de arquivos.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Projestos de teste\Uploads de arquivos\obj\Debug\netcoreapp3.1\Uploads de arquivos.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Projestos de teste\Uploads de arquivos\obj\Debug\netcoreapp3.1\Uploads de arquivos.dll
+C:\Users\guilh\OneDrive\Documentos\Projestos de teste\Uploads de arquivos\obj\Debug\netcoreapp3.1\Uploads de arquivos.pdb
+C:\Users\guilh\OneDrive\Documentos\Projestos de teste\Uploads de arquivos\obj\Debug\netcoreapp3.1\Uploads de arquivos.genruntimeconfig.cache
