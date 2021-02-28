@@ -7,9 +7,28 @@ namespace Uploads_de_arquivos
     {
         static void Main(string[] args)
         {
-            string diretórioRemetente = Directory.GetDirectories(Console.ReadLine()).ToString();           
+            try
+            {
+                var pastaOrigem = Console.ReadLine();
+                 
+                Directory.Move
+                (
+                    pastaOrigem,
+                    "C:\\Users\\guilh\\OneDrive\\Documentos\\Destinatario"
+                );
 
-            Console.WriteLine(diretórioRemetente);
+               
+            }
+            catch (System.Exception ex)
+            {
+                
+                throw ex;
+            }
+            
+
+                      
+
+            
         }
     }
 }
